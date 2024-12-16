@@ -9,15 +9,15 @@ const Projects = () => {
       title: "Portfolio",
       desc: "Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.",
       image: Portfolio,
-      // live: "",
-      github: "",
+      live: "https://portfolio-tau-sable-23.vercel.app/",
+      github: "https://github.com/navaloli007/Portfolio/tree/main",
     },
     {
       id: 2,
       title: "Netflix_GPT",
       desc: "Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.",
       image: Netflix_GPT,
-      // live: "",
+      live: "",
       github: "https://github.com/navaloli007/Netflix-GPT",
     },
   ];
