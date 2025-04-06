@@ -23,7 +23,7 @@ const Hero = () => {
             </p>
             <button className="bg-black text-white px-3 py-2 w-max rounded-md">
               <a
-                href="https://drive.google.com/file/d/1dEUTI2Ug0Qw7aSMt51kLfRaA9dLlPQUU/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1gWdOqJZHU2M4AcJ9YOa694XM0ms7IG-g/view?usp=sharing"
                 download
                 target="_blank"
               >
