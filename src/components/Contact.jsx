@@ -92,7 +92,7 @@ const Contact = () => {
                 />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/naval-oli-50948617a/"
                 className="text-foreground/60 hover:text-foreground/80"
               >
                 <img

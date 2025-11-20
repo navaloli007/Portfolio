@@ -9,7 +9,7 @@ const Cards = ({ item }) => {
         <h1 className="font-semibold text-xl mb-2">{item.title}</h1>
         <p>{item.desc}</p>
         <div className="flex gap-3 mt-4">
-          {item.id === 1 && (
+          {item.id !== 2 && (
             <button className="bg-red-500 text-white px-3 py-2 rounded-md">
               <a href={item.live} target="_blank">
                 Live Preview

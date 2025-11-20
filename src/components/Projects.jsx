@@ -1,16 +1,16 @@
-import Portfolio from "../assets/portfolio.png";
 import Netflix_GPT from "../assets/Netflix_GPT.png";
+import Cine_Vault from "../assets/Cine_Vault.png";
 import Cards from "./Cards";
 
 const Projects = () => {
   const projectJson = [
     {
       id: 1,
-      title: "Portfolio",
-      desc: "Webelite Builders did an amazing job on our website. Their professionalism and dedication to our project were outstanding.",
-      image: Portfolio,
-      live: "https://portfolio-tau-sable-23.vercel.app/",
-      github: "https://github.com/navaloli007/Portfolio/tree/main",
+      title: "Cine_Vault",
+      desc: "CineValut makes movie discovery effortless with smooth filtering, sorting, and watchlist features tailored for a personalized experience.",
+      image: Cine_Vault,
+      live: "https://cine-vault-nine.vercel.app/",
+      github: "https://github.com/navaloli007/CineVault",
     },
     {
       id: 2,
