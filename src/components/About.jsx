@@ -28,19 +28,20 @@ const About = () => {
 
             {/* --- NEW Resume-Style Intro Paragraph --- */}
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-              A passionate frontend-focused developer skilled in building
-              dynamic, responsive, and user-friendly web applications. I
-              specialize in modern ecosystems like{" "}
-              <span className="font-semibold">Angular 18</span>,
-              <span className="font-semibold"> React.js</span>, and state
-              management tools such as
-              <span className="font-semibold"> Redux</span> and{" "}
-              <span className="font-semibold">NgRx</span>. With hands-on
-              experience across business accountancy, CRM, inventory management,
-              and insurance domain applications, I create high-performance,
-              scalable interfaces using Tailwind CSS, ES6+, RxJS, and Angular
-              Material— backed by strong foundations in clean architecture,
-              debugging, API integration, and performance optimization.
+              A performance-driven Frontend Engineer with 3+ years of experience
+              building scalable, responsive, and production-ready web
+              applications. I specialize in modern ecosystems including{" "}
+              <span className="font-semibold">React.js</span>,{" "}
+              <span className="font-semibold">Next.js</span>, and{" "}
+              <span className="font-semibold">Angular 18</span>, with strong
+              expertise in state management using{" "}
+              <span className="font-semibold">Redux Toolkit</span> and{" "}
+              <span className="font-semibold">NgRx</span>. I have delivered
+              enterprise-grade solutions across CRM, inventory management,
+              accounting, and insurance platforms—focusing on reusable
+              architecture, performance optimization, accessibility, API
+              integration, and clean, maintainable code using TypeScript, ES6+,
+              RxJS, Tailwind CSS, and Angular Material.
             </p>
           </div>
 
