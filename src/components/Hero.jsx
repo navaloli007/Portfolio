@@ -1,6 +1,7 @@
 import hero from "../assets/Hero.png";
 // import linkedin from "../assets/linkedin.png";
 import github from "../assets/Github.png";
+import resume from "../assets/Naval_Resume.pdf";
 
 const Hero = () => {
   return (
@@ -14,7 +15,7 @@ const Hero = () => {
             </h1>
             <p className="md:text-2xl text-xl mb-4">Web Developer</p>
             <p className="mb-4">
-              A passionate Frontend Developer with 3+ years of experience
+              A passionate Frontend Developer with 3.6+ years of experience
               specializing in building dynamic, responsive, and scalable web
               applications. With hands-on experience across business
               accountancy, inventory management, CRM systems, and insurance
@@ -28,15 +29,13 @@ const Hero = () => {
               practices.
             </p>
 
-            <button className="bg-black text-white px-3 py-2 w-max rounded-md">
-              <a
-                href="https://drive.google.com/file/d/1Ls2ghcyxrYsNS-bkZ969ADpz5LcmZTc5/view?usp=sharing"
-                download
-                target="_blank"
-              >
-                Download CV
-              </a>
-            </button>
+            <a
+              href={resume}
+              download
+              className="bg-black text-white px-3 py-2 w-max rounded-md inline-block"
+            >
+              Download CV
+            </a>
           </div>
           <div className="md:w-1/2 relative flex justify-center items-end">
             <img src={hero} alt="" className="lg:h-[90vh] h-96" />
