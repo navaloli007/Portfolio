@@ -1,5 +1,5 @@
 import hero from "../assets/Hero.png";
-import linkedin from "../assets/linkedin.png";
+// import linkedin from "../assets/linkedin.png";
 import github from "../assets/Github.png";
 
 const Hero = () => {
@@ -44,13 +44,13 @@ const Hero = () => {
         </div>
       </div>
       <div className="absolute top-40 right-10 hidden bg-gray-200 p-4 md:flex flex-col gap-6 rounded-full">
-        <a
+        {/* <a
           href="https://www.linkedin.com/in/naval-oli-50948617a/"
           target="_blank"
           className="block rounded-md p-1 text-base font-medium text-black hover:bg-gray-50 hover:text-gray-900"
         >
           <img src={linkedin} alt="" className="w-16 cursor-pointer" />
-        </a>
+        </a> */}
         <a
           href="https://github.com/navaloli007"
           target="_blank"
