@@ -1,5 +1,5 @@
 import hero from "../assets/Hero.png";
-// import linkedin from "../assets/linkedin.png";
+import linkedin from "../assets/linkedin.png";
 import github from "../assets/Github.png";
 import resume from "../assets/Naval_Resume.pdf";
 
@@ -15,13 +15,13 @@ const Hero = () => {
             </h1>
             <p className="md:text-2xl text-xl mb-4">Web Developer</p>
             <p className="mb-4">
-              A passionate Frontend Developer with 3.6+ years of experience
+              A passionate Frontend Developer with 3.7+ years of experience
               specializing in building dynamic, responsive, and scalable web
               applications. With hands-on experience across business
               accountancy, inventory management, CRM systems, and insurance
               domain platforms, I work extensively with modern frontend
               ecosystems including React.js, Next.js (SSR/SSG, App Router),
-              Angular 18, and state management tools like Redux Toolkit and
+              Angular, and state management tools like Redux Toolkit and
               NgRx. I focus on crafting high-performance interfaces using
               Tailwind CSS, TypeScript, JavaScript (ES6+), and RxJS—backed by
               strong expertise in clean architecture, API integration,
@@ -43,13 +43,13 @@ const Hero = () => {
         </div>
       </div>
       <div className="absolute top-40 right-10 hidden bg-gray-200 p-4 md:flex flex-col gap-6 rounded-full">
-        {/* <a
+        <a
           href="https://www.linkedin.com/in/naval-oli-50948617a/"
           target="_blank"
           className="block rounded-md p-1 text-base font-medium text-black hover:bg-gray-50 hover:text-gray-900"
         >
           <img src={linkedin} alt="" className="w-16 cursor-pointer" />
-        </a> */}
+        </a>
         <a
           href="https://github.com/navaloli007"
           target="_blank"

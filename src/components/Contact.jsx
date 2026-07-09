@@ -1,7 +1,7 @@
 import { useState } from "react";
 import facebook from "../assets/facebook.png";
 import instagram from "../assets/instagram.png";
-// import linkedin from "../assets/linkedin.png";
+import linkedin from "../assets/linkedin.png";
 import Lottie from "lottie-react";
 import contact from "../assets/Contact.json";
 
@@ -91,7 +91,7 @@ const Contact = () => {
                   className="h-6 w-6 object-contain"
                 />
               </a>
-              {/* <a
+              <a
                 href="https://www.linkedin.com/in/naval-oli-50948617a/"
                 className="text-foreground/60 hover:text-foreground/80"
               >
@@ -100,7 +100,7 @@ const Contact = () => {
                   alt="LinkedIn"
                   className="h-6 w-6 object-contain"
                 />
-              </a> */}
+              </a>
             </div>
             <Lottie
               animationData={contact}
