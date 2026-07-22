@@ -15,7 +15,7 @@ const Hero = () => {
             </h1>
             <p className="md:text-2xl text-xl mb-4">Web Developer</p>
             <p className="mb-4">
-              A passionate Frontend Developer with 3.7+ years of experience
+              A passionate Frontend Developer with 3.8+ years of experience
               specializing in building dynamic, responsive, and scalable web
               applications. With hands-on experience across business
               accountancy, inventory management, CRM systems, and insurance

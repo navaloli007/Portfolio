@@ -28,7 +28,7 @@ const About = () => {
 
             {/* --- NEW Resume-Style Intro Paragraph --- */}
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-              A performance-driven Frontend Engineer with 3.7+ years of experience
+              A performance-driven Frontend Engineer with 3.8+ years of experience
               building scalable, responsive, and production-ready web
               applications. I specialize in modern ecosystems including{" "}
               <span className="font-semibold">React.js</span>,{" "}
